@@ -15,11 +15,6 @@
   url = "/article/jiaoliu"
   weight = 10
 
-[[main]]
-  name = "博客"
-  url = "/blog/"
-  weight = 20
-
 
 [[social]]
   name = "GitHub"
