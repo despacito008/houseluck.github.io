@@ -3,8 +3,8 @@
 ## Homepage
 title = "房小会"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "让买房更省心，优惠"
+description = "让买房更省心，优惠"
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
