@@ -13,6 +13,6 @@ contributors: ["李锋"]
 
 ## 微信群
 
-微信扫码加好友，备注城市
+**该项目废弃**
 
-![扫码加企业微信好友](https://xingkezhaofang.oss-cn-hangzhou.aliyuncs.com/WechatIMG1.jpeg?x-oss-process=image/resize,p_40)
+
